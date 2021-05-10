@@ -1,1 +1,4 @@
-# datacracy-atom-thunguyen
+GitHub là một hệ thống quản lý dự án và phiên bản code, hoạt động giống như một mạng xã hội cho những người làm lập trình. Có những tài liệu được đồng bộ hóa trên GitHub mà ở đây GitHub đóng vai trò như một máy chủ.
+Repository là nơi ghi lại trạng thái của thư mục (folder) và file trên Github, có vai trò như một kho chứa tất cả các mã nguồn của 1 dự án. Các lập trình viên có thể clone lại mã nguồn từ một repository. 
+Fork repo (DATAcracy) nhằm mục đích sao chép lại toàn bộ những tài liệu của DATAcracy và lưu trữ trong tài khoản của mỗi học viên. Trong đó học viên có thể thay đổi nội dung mà không làm ảnh hưởng đến mã nguồn. 
+Branch là thao tác dùng để phân nhánh và ghi lại luồng của lịch sử trên file. Khi một file đã được branch thì những thay đổi trên file sẽ không ảnh hưởng đến các branch khác. Các branch hoạt động riêng lẻ và không ảnh hưởng đến nhau. Commit message mô tả các thay đổi khi được gửi lên làm gì. Colab yêu cầu cấp quyền để push 1 commit lên GitHub.
